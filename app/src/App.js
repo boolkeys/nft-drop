@@ -77,7 +77,7 @@ const App = () => {
             href={TWITTER_LINK}
             target="_blank"
             rel="noreferrer"
-          >Hey Dear Visitor! This is an app {`built by SSC#1366 BoolKeys @${TWITTER_HANDLE}`}</a>
+          >Hey Dear Visitor! Boolkeys here. This is an app {`built by SSC#1366 @${TWITTER_HANDLE}`}</a>
         </div>
       </div>
     </div>
