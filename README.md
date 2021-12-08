@@ -1,6 +1,6 @@
 # buildspace Solana NFT Drop Project
 
-### What is the .vscode Folder?
+### What is this repo?
 An NFT experiment
 
 ### Questions?
